@@ -1,0 +1,19 @@
+{
+    "name": "@theoffice/css-framework-react",
+    "version": "@VERSION",
+    "description": "UI for your DS",
+    "author": "aditya",
+    "license": "MIT",
+    "main": "react/index.js",
+    "module": "react/index.js",
+    "devDependencies": {
+        "@babel/cli": "^7.4.3",
+        "@babel/core": "^7.4.3",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "react-scripts": "2.1.8"
+    },
+    "peerDependencies": {
+        "@theoffice/css-framework-ui": "@VERSION"
+    }
+}

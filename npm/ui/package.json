@@ -1,0 +1,7 @@
+{
+    "name": "@theoffice/css-framework-ui",
+    "version": "@VERSION",
+    "description": "UI for your DS",
+    "author": "aditya",
+    "license": "MIT"
+}
